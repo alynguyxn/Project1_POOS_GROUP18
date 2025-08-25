@@ -2,10 +2,10 @@
 
 Group Members & Roles:
 
-Mario Calderon - Project Manager/UI
-Kayan Ho - UI
-Alyssa Nguyen - Database
-Jorje Toledo - UI
+Mario Calderon - Project Manager/UI  
+Kayan Ho - UI  
+Alyssa Nguyen - Database  
+Jorje Toledo - UI  
 
 Project Requirements:
 Remote database
